@@ -7,7 +7,7 @@ Project for markdown challenge
 
 <http://www.dylanbarrett.me:8080>
 
-[Second Page] (secondREADME.md)
+[Second Page](secondREADME.md)
 
 ![Colorado](colorado.jpg)
 
